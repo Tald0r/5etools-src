@@ -13000,7 +13000,7 @@
 			"name": "Command Amulet",
 			"source": "XMM",
 			"page": 277,
-			"type": "OTH",
+			"type": "OTH|XPHB",
 			"rarity": "unknown (magic)",
 			"weight": 1,
 			"entries": [
@@ -42310,7 +42310,7 @@
 				}
 			],
 			"baseItem": "mace|xphb",
-			"type": "M",
+			"type": "M|XPHB",
 			"rarity": "very rare",
 			"reqAttune": "by a spellcaster",
 			"reqAttuneTags": [
@@ -49673,7 +49673,7 @@
 			"name": "Psychic Blade",
 			"source": "XPHB",
 			"page": 136,
-			"type": "M",
+			"type": "M|XPHB",
 			"rarity": "none",
 			"weaponCategory": "simple",
 			"property": [
